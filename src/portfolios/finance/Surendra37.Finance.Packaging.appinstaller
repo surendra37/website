@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="http://surendra37.com.np/portfolios/finance/Surendra37.Finance.Packaging.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="1f641246-cae9-4743-bb03-fdcd2f8fc7a6"
+		Version="1.0.0.0"
+		Publisher="CN=Surendra37"
+		Uri="http://surendra37.com.np/portfolios/finance/Surendra37.Finance.Packaging_1.0.0.0_Test/Surendra37.Finance.Packaging_1.0.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
