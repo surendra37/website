@@ -1,11 +1,11 @@
 version: '3.4'
 
 services:
-	portfolio:
-		image: html-portfolio-image
-		build:
-			context: .
-			dockerfile: src/Dockerfile
+    portfolio:
+        image: html-portfolio-image
+        build:
+            context: .
+            dockerfile: src/Dockerfile
     nginx:
         image: nginx:latest
         ports:
