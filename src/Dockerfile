@@ -1,3 +1,3 @@
 FROM nginx
-COPY nginx.conf /etc/nginx/conf.d/nginx.conf
-COPY . /usr/share/nginx/html
+COPY surendra37.com.np.conf /etc/nginx/conf.d/surendra37.com.np.conf
+COPY . /var/www/html
